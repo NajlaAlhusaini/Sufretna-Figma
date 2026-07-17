@@ -50,7 +50,7 @@ The presentation explains the project background, research process, interface de
 
 **Presentation**
 
-Presentation.pdf
+[Project Presentation](Presentation.pdf)
 
 ---
 
