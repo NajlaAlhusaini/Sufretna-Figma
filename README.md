@@ -2,77 +2,71 @@
 
 ## Overview
 
-Sufretna is a mobile application designed to help families organize meal planning and improve coordination between family members. The application allows users to schedule meals, vote on meal options, assign cooking tasks, browse recipes, and reduce food waste through food donation features.
+Sufretna is a UX/UI mobile application prototype designed to help families organize meal planning, improve communication, and reduce food waste. The application provides a centralized platform where family members can coordinate meal schedules, vote on meals, manage grocery lists and household tasks, browse recipes, and schedule food donations.
 
-This project was developed as part of the IT214 course at King Saud University.
-
----
-
-## Project Objectives
-
-- Simplify weekly meal planning.
-- Improve communication between family members.
-- Encourage shared decision-making through meal voting.
-- Help reduce food waste by supporting food donation.
-
----
-
-## Design Process
-
-The project followed a user-centered design process that included research, storyboarding, wireframing, interface design, and interactive prototyping.
-
-### Storyboards
-
-Storyboards were created to understand user scenarios and identify common challenges faced by families during meal planning and food management.
-
-*(Insert storyboard images here.)*
-
-### Wireframes
-
-Low-fidelity wireframes were developed to define the application structure, navigation, and user flow before moving to the final interface design.
-
-*(Insert wireframe images here.)*
-
-### High-Fidelity Design
-
-The final user interface was designed in Figma with a focus on usability, consistency, and accessibility.
-
-*(Insert screenshots here.)*
+This project was developed as part of the Human-Computer Interaction (IT214) course at King Saud University.
 
 ---
 
 ## Features
 
-- User authentication
-- Weekly meal planner
-- Meal voting
-- Recipe browsing
-- Cooking task assignment
-- Food donation
-- Family management
-- User settings
+- Meal Planning Calendar
+- Family Availability Scheduling
+- Family Members Management
+- Meal Voting
+- Recipes Browsing
+- Grocery List Management
+- Household Task Management
+- Food Donation Scheduling
+- User Profile & Settings
 
 ---
 
-## Prototype
+## Project Resources
 
-Interactive prototype:
+### Interactive Prototype
 
-**Figma:** *(Insert Figma link here.)*
+Explore the complete interactive prototype designed in Figma.
 
----
+**Figma Prototype**
 
-## Demonstration
-
-A short walkthrough of the prototype is included to demonstrate the application's navigation and key features.
-
-*(Insert demo video or GIF here.)*
+https://www.figma.com/proto/UUzjlYFg1wSmTnrdVkjz9I/Untitled?node-id=282-3820&t=j4U0ByuMmtcd1rvm-1&starting-point-node-id=387%3A6030
 
 ---
 
-## My Contribution
+### Project Demonstration
 
-My responsibilities included designing several user interfaces, participating in the design process, creating interactive prototypes, and contributing to usability improvements throughout the project.
+Watch a short walkthrough demonstrating the application's navigation and main features.
+
+**Demo Video**
+
+https://drive.google.com/file/d/1NIeYNJC1FyIMJ3gEDJlM0eJY28kCZztu/view?usp=sharing
+
+---
+
+### Project Presentation
+
+The presentation explains the project background, research process, interface design, and final prototype.
+
+**Presentation**
+
+Presentation.pdf
+
+---
+
+
+## Design Process
+
+The application was designed following a user-centered design approach:
+
+- User Research
+- User Personas
+- Storyboarding
+- Information Architecture
+- Wireframing
+- High-Fidelity UI Design
+- Interactive Prototyping
+- Usability Evaluation
 
 ---
 
@@ -80,4 +74,20 @@ My responsibilities included designing several user interfaces, participating in
 
 - Figma
 - FigJam
-- Canva
+- UX Research Methods
+- User Personas
+- Storyboarding
+
+---
+
+## Course Information
+
+**Course:** IT214 – Human-Computer Interaction
+
+**Institution:** King Saud University
+
+---
+
+## Team
+
+Developed as a collaborative university project for the Human-Computer Interaction course.
