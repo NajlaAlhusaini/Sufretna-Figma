@@ -1,4 +1,4 @@
-# Sufretna – Family Meal Planning Mobile Application
+
 <p align="center">
   <img src="sufretna.png" alt="sufretna logo" width="180">
 </p>
