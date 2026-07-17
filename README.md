@@ -1,6 +1,6 @@
 # Sufretna – Family Meal Planning Mobile Application
 <p align="center">
-  <img src="images/sufretna.png" alt="Sufretna Logo" width="180">
+  <img src="images/sufretna.png" alt="sufretna.png" width="180">
 </p>
 
 <h1 align="center">Sufretna – Family Meal Planning Mobile Application</h1>
@@ -8,6 +8,8 @@
 <p align="center">
 UX/UI Mobile Application Prototype
 </p>
+
+
 ## Overview
 
 Sufretna is a UX/UI mobile application prototype designed to help families organize meal planning, improve communication, and reduce food waste. The application provides a centralized platform where family members can coordinate meal schedules, vote on meals, manage grocery lists and household tasks, browse recipes, and schedule food donations.
